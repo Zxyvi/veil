@@ -1,0 +1,2 @@
+[console_scripts]
+veil = veil.main:app
